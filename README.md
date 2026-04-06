@@ -58,8 +58,8 @@ Currently, I am working on building robust deep learning architectures (includin
 ---
 
 ## 🚀 Projects & Showcase
-<a href="[https://github.com/bakaanaa/ANOTHER_REPO_NAME](https://github.com/bakaanaa/AI-Forescasting-Stock)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bakaanaa&repo=ANOTHER_REPO_NAME&theme=onedark" />
+<a href="https://github.com/bakaanaa/AI-Forescasting-Stock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bakaanaa&repo=AI-Forescasting-Stock&theme=onedark" />
 </a>
 
 - **[System-Recommend](https://huggingface.co/bakabin/System-Recommend)**
