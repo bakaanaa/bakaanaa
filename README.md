@@ -1,121 +1,74 @@
 # Hi there 👋, I'm bakaanaa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=3000&pause=1000&color=61AFEF&background=ffffff00&width=680&lines=I%27m+a+data-focused+professional.;I+specialize+in+data+engineering,+analysis+and+data+science.;I+have+a+strong+interest+in+financial+data." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=3000&pause=1000&color=61AFEF&background=ffffff00&width=680&lines=I%27m+a+data-focused+professional.;I+specialize+in+Machine+Learning+%26+Data+Science.;I+build+models+for+financial+market+analysis." alt="Typing SVG" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bakaanaa&color=61AFEF)](https://github.com/bakaanaa)
-[![Follow on GitHub](https://img.shields.io/github/followers/bakaanaa?label=Follow&style=social)](https://github.com/bakaanaa)
+<p align="center">
+  <a href="https://github.com/bakaanaa"><img src="https://komarev.com/ghpvc/?username=bakaanaa&color=61AFEF" alt="Profile Views" /></a>
+  <a href="https://github.com/bakaanaa"><img src="https://img.shields.io/github/followers/bakaanaa?label=Follow&style=social" alt="Follow on GitHub" /></a>
+</p>
 
 ---
 
-<!-- Two-column badges: left = Languages & Frameworks, right = Libraries & Tools -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
+## 👨‍💻 About me
+I’m a data professional specializing in data engineering, exploratory data analysis (EDA), and advanced machine learning. My core focus lies at the intersection of AI and financial markets. 
 
-### Languages & Frameworks
-<p>
-  <!-- Python SVG logo (Simple Icons) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="20" style="vertical-align:middle" /> <strong>Python</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" alt="Java" width="20" style="vertical-align:middle" /> <strong>Java</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="20" style="vertical-align:middle" /> <strong>JavaScript</strong>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pytorch.svg" alt="PyTorch" width="20" style="vertical-align:middle" /> <strong>PyTorch</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/scikitlearn.svg" alt="scikit-learn" width="20" style="vertical-align:middle" /> <strong>scikit-learn</strong>
-</p>
-
-    </td>
-    <td valign="top" width="50%">
-
-### Libraries & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pandas.svg" alt="pandas" width="20" style="vertical-align:middle" /> <strong>pandas</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" alt="NumPy" width="20" style="vertical-align:middle" /> <strong>NumPy</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matplotlib.svg" alt="matplotlib" width="20" style="vertical-align:middle" /> <strong>matplotlib</strong>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/seaborn.svg" alt="seaborn" width="20" style="vertical-align:middle" /> <strong>seaborn</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/streamlit.svg" alt="Streamlit" width="20" style="vertical-align:middle" /> <strong>Streamlit</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hadoop.svg" alt="Hadoop" width="20" style="vertical-align:middle" /> <strong>Hadoop</strong>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" width="20" style="vertical-align:middle" /> <strong>Git</strong>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" width="20" style="vertical-align:middle" /> <strong>Docker</strong>
-</p>
-
-    </td>
-  </tr>
-</table>
+Currently, I am working on building robust deep learning architectures (including CNNs and Computer Vision applications) and developing classification models to predict stock market trends using historical data. I enjoy turning complex data streams into actionable insights, utilizing techniques like Volume Spread Analysis (VSA) and Wyckoff principles.
 
 ---
 
-## About me
-I’m a data-focused professional specializing in data engineering, data analysis, and data science. I have a strong interest in financial data and enjoy turning complex data streams into actionable insights.
+## 🛠️ Skills & Tools
 
-### Skills & Tools
-- Languages: 🐍 Python, ☕ Java, ✨ JavaScript  
-- 🧠 Frameworks: PyTorch, scikit-learn  
-- 📚 Libraries: pandas, NumPy, matplotlib, seaborn, Streamlit  
-- 🛠️ Tools: Hadoop, Git, Docker
+### Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### AI, ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Data Engineering & Tools
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Statistics & Activity
+## 📈 Statistics & Activity
 
-<p align="left">
+<p align="center">
   <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=bakaanaa&show_icons=true&theme=onedark&count_private=true" />
   <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakaanaa&layout=compact&theme=onedark" />
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="contribution-chart" src="https://ghchart.rshah.org/bakaanaa" />
 </p>
 
-<p align="left">
-  <img alt="activity-graph" src="https://activity-graph.herokuapp.com/graph?username=bakaanaa&theme=onedark" />
-</p>
-
-<p align="left">
+<p align="center">
   <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bakaanaa&theme=onedark" />
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=bakaanaa&theme=onedark&column=4&margin-w=10" />
-</p>
-
-<p align="left">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=bakaanaa.bakaanaa" />
 </p>
 
 ---
 
-## Projects & Showcase
+## 🚀 Projects & Showcase
 
-Use the templates below to add projects (GitHub repos or external links like Hugging Face). Replace USERNAME/REPO or EXTERNAL_URL and fill the short description.
+<a href="https://github.com/bakaanaa/YOUR_REPO_NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bakaanaa&repo=YOUR_REPO_NAME&theme=onedark" />
+</a>
 
-- GitHub project example
-  - [Financial Data Explorer](https://github.com/bakaanaa/financial-data-explorer)  
-    <img src="https://img.shields.io/github/stars/bakaanaa/financial-data-explorer?style=social" alt="stars" /> <img src="https://img.shields.io/github/forks/bakaanaa/financial-data-explorer?style=social" alt="forks" />  
-    Short: Interactive Streamlit app for exploring market time series.
-
-- External project example (Hugging Face model / demo)
-  - [MarketSentimentModel on Hugging Face](https://huggingface.co/your-hf-username/market-sentiment-model)  
-    <img src="https://img.shields.io/badge/Hugging%20Face-FF6C37?style=flat&logo=huggingface&logoColor=white" alt="huggingface" />  
-    Short: Transformer-based model for sentiment analysis of financial news.
-
-- Generic external link example
-  - [Deployed Demo / Notebooks](https://your-site-or-app.example.com)  
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat&logo=google-chrome&logoColor=white" alt="live-demo" />  
-    Short: Streamlit app deployed for interactive exploration.
-
-How to add a GitHub repo card automatically:
-- Copy the repo link. Optionally add badges:
-  - Stars: https://img.shields.io/github/stars/USERNAME/REPO?style=social
-  - License: https://img.shields.io/github/license/USERNAME/REPO
+<a href="https://github.com/bakaanaa/ANOTHER_REPO_NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bakaanaa&repo=ANOTHER_REPO_NAME&theme=onedark" />
+</a>
 
 ---
 
-## Contact
-- Email: youremail@example.com  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## 📫 Contact Me
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
