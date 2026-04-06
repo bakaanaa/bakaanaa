@@ -62,16 +62,13 @@ Currently, I am working on building robust deep learning architectures (includin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bakaanaa&repo=AI-Forescasting-Stock&theme=onedark" />
 </a>
 
-- **[System-Recommend](https://huggingface.co/bakabin/System-Recommend)**
-  <br>
-  <a href="https://huggingface.co/bakabin/System-Recommend">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-FF6C37?style=for-the-badge" alt="Hugging Face Model" />
-  </a>
-  <br>
+
+### 🌐 AI Models & External Projects
+- 📦 **[System-Recommend](https://huggingface.co/bakabin/System-Recommend)** <a href="https://huggingface.co/bakabin/System-Recommend"><img src="https://img.shields.io/badge/Hugging%20Face-Model-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Model" /></a>  
   *Recommendation system model hosted and deployed on Hugging Face.*
 
 ---
 
 ## 📫 Contact Me
-- **Email:** [youremail@example.com](buiphuc30905@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [buiphuc30905@gmail.com](mailto:buiphuc30905@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)s
